@@ -1,0 +1,31 @@
+.EmpForm{
+    margin:5%;
+    /* background-color:coral; */
+}
+.table{
+    margin: 2%;
+} 
+.tablehead{
+    color: aliceblue;
+
+
+}
+.bg-img {
+    /* The image used */
+    background-image: url("../Images/form.jpg");
+  
+    min-height:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .button{
+    background-color: antiquewhite;
+  }
+  .heading{
+    font-family: Copperplate, Papyrus, fantasy;
+    padding-left: 15%;
+    font-size: larger;
+  }
+  
